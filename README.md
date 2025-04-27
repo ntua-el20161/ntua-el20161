@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vassilis</h1>
 <h3 align="center">An Electrical and Computer Engineering Student from Greece</h3>
 
-- 🌱 I’m currently learning **Node js, Docker, Sql databases, Microservices architecture**
+- 🌱 I’m currently learning **Docker, Microservices architecture, Rust**
 
 - 📫 How to reach me **billmiligas@gmail.com**
 
